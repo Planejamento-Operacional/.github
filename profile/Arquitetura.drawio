@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-10-05T12:12:18.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="RP9bLUYeR7Cdr7PSUoQ4" version="21.6.1" type="device">
+<mxfile host="Electron" modified="2023-10-05T12:13:49.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="u4Xwb6B5qBSm_ywC0P9O" version="21.6.1" type="device">
   <diagram name="Página-1" id="Blhv3m7aih1FwB_w2zbJ">
     <mxGraphModel dx="1464" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="N57erSLhnwKnchPgYexn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="950" width="560" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="N57erSLhnwKnchPgYexn-3" value="rg-planejamentooperacional-dev-eastus-001" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="N57erSLhnwKnchPgYexn-3" value="rg-tfstate-dev-001" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="80" y="964" width="31.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N57erSLhnwKnchPgYexn-4" value="stterraformtfstatedev001" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
